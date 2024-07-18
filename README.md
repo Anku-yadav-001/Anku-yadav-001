@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Welcome! I'm a dedicated aspiring Full Stack Developer with a strong interest in web technologies and Python programming. I specialize in building scalable applications using new technologies. Passionate about leveraging technology to solve challenges and deliver impactful solutions. Let's connect and collaborate on innovative projects!</p>
+    <p>I'm a dedicated aspiring Full Stack Developer with a strong interest in web technologies and Python programming. I specialize in building scalable applications using new technologies. Passionate about leveraging technology to solve challenges and deliver impactful solutions. Let's connect and collaborate on innovative projects!</p>
 </div>
 
 <div align="center">
